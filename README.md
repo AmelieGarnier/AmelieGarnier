@@ -6,9 +6,9 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/-GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmelieGarnier)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-22D3EE?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/am%C3%A9lie-g-b982b5316/)
-[![Email](https://img.shields.io/badge/-Email-10B981?style=for-the-badge&logo=gmail&logoColor=white)](mailto:garnier.amelie@live.fr)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ameliegarnier.github.io/Portfolio/)
+[![GitHub](https://img.shields.io/badge/-GitHub-D7BDE2?style=for-the-badge&logo=github&logoColor=5C5470)](https://github.com/AmelieGarnier)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-AEDFF7?style=for-the-badge&logo=linkedin&logoColor=5C5470)](https://www.linkedin.com/in/am%C3%A9lie-g-b982b5316/)
+[![Email](https://img.shields.io/badge/-Email-FADADD?style=for-the-badge&logo=gmail&logoColor=5C5470)](mailto:garnier.amelie@live.fr)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-B5EAD7?style=for-the-badge&logo=googlechrome&logoColor=5C5470)](https://ameliegarnier.github.io/Portfolio/)
 
 </div>
