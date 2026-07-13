@@ -13,20 +13,6 @@
 
 </div>
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/M1_Expert_R%C3%A9seaux_%26_Infra_S%C3%A9curis%C3%A9es-ORT_Toulouse-6d28d9?style=for-the-badge&logo=googlescholar&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Cybersecurity_Certificate-2025-4c1d95?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/📍_Arles_(13)-Sud_de_la_France-1e1b4b?style=for-the-badge"/>
-
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=AmelieGarnier&color=6d28d9&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/AmelieGarnier?color=4c1d95&style=for-the-badge&label=FOLLOWERS&logo=github&logoColor=white)
-![Stars](https://img.shields.io/badge/dynamic/json?color=a78bfa&style=for-the-badge&label=STARS&query=%24.total_stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FAmelieGarnier)
-
-</div>
-
 ---
 
 ## 📜 À propos
@@ -41,11 +27,12 @@ Ma formation **M1 Expert Réseaux, Infrastructures et Sécurité** (ORT Toulouse
 - 🌐 TOEIC 710 pts — Niveau B2
 - 🔄 Recherche un **contrat de professionnalisation GRC**, rythme 3 semaines entreprise / 1 semaine école
 
-```yaml
-open_to:
-  - Contrat de professionnalisation GRC — fin septembre 2026
-  - Missions gouvernance, risque, conformité SI
-  - Environnements SOC / Cybersécurité opérationnelle
+```bash
+amelie@kali:~$ cat open_to.txt
+→ Contrat de professionnalisation GRC — fin septembre 2026
+→ Missions gouvernance, risque, conformité SI
+→ Environnements SOC / Cybersécurité opérationnelle
+amelie@kali:~$ _
 ```
 
 ---
@@ -227,95 +214,6 @@ Installation et configuration de GLPI sur Debian 12, inventaire automatique Wind
 
 ---
 
-## 💼 Expérience
-
-**Assistante juridique aux assurances — NGE (Groupe BTP)**
-`Juillet – Septembre 2024`
-
-Traitement de dossiers sinistres, plateforme PHAROS, coordination équipes terrain et service juridique.
-
-- Gestion de données sensibles en environnement réglementé
-- Coordination entre équipes terrain et service juridique
-
-`Conformité` `Données sensibles` `PHAROS`
-
-<br/>
-
-**Assistante Préparatrice de commandes — XPO Logistics**
-`2021 – 2023`
-
-Préparation de commandes et gestion des stocks (picking, scanning, contrôle qualité).
-
-- Respect des procédures de sécurité et coordination transport
-
-`Procédures qualité` `Sécurité opérationnelle`
-
-<br/>
-
-**Chargée de gestion administrative — Alpes Administration Services**
-`2016 – 2021`
-
-Administration du personnel, gestion des contrats et archivage légal.
-
-- Optimisation des procédures entre RH, juridique et comptabilité
-
-`Administration` `Archivage légal` `RH`
-
-<br/>
-
-**Collaboratrice juridique — Alpes Juridique Conseil**
-`2013 – 2016`
-
-Traitement des dossiers contentieux, rédaction d'actes juridiques.
-
-- Assistance à la conformité réglementaire des clients
-
-`Droit` `Contentieux` `Conformité réglementaire`
-
----
-
-## 🏆 Réalisations
-
-<div align="center">
-
-| Reconnaissance | Détails |
-|---|---|
-| 🎓 M1 Expert Réseaux et Infrastructures Sécurisées | Obtenu — Mai 2026, ORT Toulouse |
-| 📜 Certificat Cybersécurité Google | Obtenu — Mai 2025, Google / Coursera |
-| 🌐 TOEIC | 710 points — Niveau B2 |
-| ⚡ Projet SOAR | MTTD 20s · MTTR < 1s · Taux de blocage 100% |
-| 🛡️ 8 projets d'infrastructure sécurisée | Environnements virtualisés, entièrement documentés |
-| ⚖️ Master en Droit Public | Université Aix-en-Provence |
-
-</div>
-
----
-
-## 📚 Certifications
-
-**Google / Coursera**
-
-<img src="https://img.shields.io/badge/Google_Cybersecurity_Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-
-**ORT Toulouse**
-
-<img src="https://img.shields.io/badge/M1_Expert_R%C3%A9seaux_Infra_S%C3%A9curis%C3%A9es-6d28d9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/M2_Expert_R%C3%A9seaux_Infra_S%C3%A9curis%C3%A9es-À_venir_2026--2027-4c1d95?style=for-the-badge"/>
-
----
-
-## 🔗 Profils professionnels
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/am%C3%A9lie-g-b982b5316/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://ameliegarnier.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-6d28d9?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://github.com/AmelieGarnier"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-</div>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -361,35 +259,28 @@ Traitement des dossiers contentieux, rédaction d'actes juridiques.
 
 ## 🎯 Focus actuel
 
-```yaml
-current:
-  learning:
-    - M2 Expert Réseaux et Infrastructures Sécurisées
-    - Élaboration de PSSI & pilotage de la conduite du changement
-    - Coordination SOC / RSSI
-  building:
-    - Lab Wazuh + Suricata + SOAR (TheHive/Cortex/Shuffle)
-    - Environnement Kubernetes de disaster recovery
-  exploring:
-    - Mise en œuvre ISO 27001
-    - Cartographie NIST CSF
-  open_to:
-    - Contrat de professionnalisation GRC — fin septembre 2026
-    - Rythme 3 semaines entreprise / 1 semaine école
+```bash
+amelie@kali:~$ cat focus.txt
+
+[LEARNING]
+→ M2 Expert Réseaux et Infrastructures Sécurisées
+→ Élaboration de PSSI & pilotage de la conduite du changement
+→ Coordination SOC / RSSI
+
+[BUILDING]
+→ Lab Wazuh + Suricata + SOAR (TheHive/Cortex/Shuffle)
+→ Environnement Kubernetes de disaster recovery
+
+[EXPLORING]
+→ Mise en œuvre ISO 27001
+→ Cartographie NIST CSF
+
+[OPEN_TO]
+→ Contrat de professionnalisation GRC — fin septembre 2026
+→ Rythme 3 semaines entreprise / 1 semaine école
+
+amelie@kali:~$ _
 ```
-
----
-
-## 📬 Contact
-
-<div align="center">
-
-<a href="mailto:garnier.amelie@live.fr"><img src="https://img.shields.io/badge/Gmail-4c1d95?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/am%C3%A9lie-g-b982b5316/"><img src="https://img.shields.io/badge/LinkedIn-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/AmelieGarnier"><img src="https://img.shields.io/badge/GitHub-1e1b4b?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://ameliegarnier.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-a78bfa?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-
-</div>
 
 ---
 
