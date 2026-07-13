@@ -1,0 +1,77 @@
+<svg width="820" height="272" viewBox="0 0 820 272" xmlns="http://www.w3.org/2000/svg">
+<style>
+  .card{fill:#0a1526;stroke:#00d4ff;stroke-width:1.4;rx:14;}
+  @keyframes glow{0%,100%{stroke-opacity:.35;filter:drop-shadow(0 0 2px rgba(0,212,255,.25))}50%{stroke-opacity:.9;filter:drop-shadow(0 0 10px rgba(0,212,255,.55))}}
+  .cardGlow{animation:glow 3.2s ease-in-out infinite}
+  @keyframes floaty{0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}
+  .icon{animation:floaty 2.6s ease-in-out infinite;transform-origin:center}
+  @keyframes fadeUp{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
+  .fadeA{opacity:0;animation:fadeUp .6s ease-out .15s forwards}
+  .fadeB{opacity:0;animation:fadeUp .6s ease-out .35s forwards}
+  .fadeC{opacity:0;animation:fadeUp .6s ease-out .55s forwards}
+  .fadeD1{opacity:0;animation:fadeUp .5s ease-out .8s forwards}
+  .fadeD2{opacity:0;animation:fadeUp .5s ease-out .92s forwards}
+  .fadeD3{opacity:0;animation:fadeUp .5s ease-out 1.04s forwards}
+  .fadeD4{opacity:0;animation:fadeUp .5s ease-out 1.16s forwards}
+  .fadeE1{opacity:0;animation:fadeUp .5s ease-out 1.4s forwards}
+  .fadeE2{opacity:0;animation:fadeUp .5s ease-out 1.5s forwards}
+  .fadeE3{opacity:0;animation:fadeUp .5s ease-out 1.6s forwards}
+  .fadeE4{opacity:0;animation:fadeUp .5s ease-out 1.7s forwards}
+  text{font-family:'Segoe UI',Helvetica,Arial,sans-serif;}
+  .badgeTxt{font-family:'JetBrains Mono',Consolas,monospace;font-size:11px;letter-spacing:.5px;}
+  .title{font-size:22px;font-weight:700;fill:#e8f4fd;}
+  .desc{font-size:13.5px;fill:#7f93a8;}
+  .featPill{fill:#00d4ff;}
+  .featTxt{fill:#04101c;font-weight:700;font-size:11px;font-family:'JetBrains Mono',Consolas,monospace;letter-spacing:.5px;}
+  .tagPill{fill:rgba(0,212,255,.08);stroke:rgba(0,212,255,.35);stroke-width:1;}
+  .tagTxt{fill:#00d4ff;}
+  .statBox{fill:rgba(0,0,0,.35);stroke:rgba(0,212,255,.15);stroke-width:1;}
+  .statLbl{font-size:10px;fill:#5a7086;letter-spacing:.4px;}
+  .statVal{font-size:12.5px;fill:#00d4ff;font-weight:600;}
+</style>
+
+<rect x="4" y="4" width="812" height="292" rx="14" class="card cardGlow"/>
+
+<rect x="28" y="26" width="98" height="24" rx="4" class="featPill"/>
+<text x="77" y="42" text-anchor="middle" class="featTxt">★ FEATURED</text>
+
+<text x="28" y="88" class="icon" style="font-size:34px;">🛡️</text>
+<text x="76" y="82" class="title fadeA">Wazuh SIEM / EDR sur Debian</text>
+<text x="76" y="103" class="desc fadeA">Déploiement complet d'une infrastructure de surveillance centralisée</text>
+
+<text x="28" y="132" class="desc fadeB" style="fill:#93a7ba;">Centralisation des logs multi-sources, détection d'intrusions en temps réel,</text>
+<text x="28" y="150" class="desc fadeB" style="fill:#93a7ba;">agents déployés sur plusieurs machines Linux &amp; Windows.</text>
+
+<g class="fadeC">
+  <rect x="28" y="172" width="176" height="46" rx="6" class="statBox"/>
+  <text x="40" y="189" class="statLbl">ENVIRONNEMENT</text>
+  <text x="40" y="206" class="statVal">VMware · Debian 12</text>
+
+  <rect x="216" y="172" width="176" height="46" rx="6" class="statBox"/>
+  <text x="228" y="189" class="statLbl">SCOPE</text>
+  <text x="228" y="206" class="statVal">Linux &amp; Windows</text>
+
+  <rect x="404" y="172" width="176" height="46" rx="6" class="statBox"/>
+  <text x="416" y="189" class="statLbl">FOCUS GRC</text>
+  <text x="416" y="206" class="statVal">Alertes · Audit</text>
+
+  <rect x="592" y="172" width="200" height="46" rx="6" class="statBox"/>
+  <text x="604" y="189" class="statLbl">LIVRABLES</text>
+  <text x="604" y="206" class="statVal">TP + Runbook</text>
+</g>
+
+<g class="badgeTxt">
+  <rect x="28" y="238" width="60" height="24" rx="12" class="tagPill fadeD1"/>
+  <text x="58" y="254" text-anchor="middle" class="tagTxt fadeD1">SIEM</text>
+
+  <rect x="96" y="238" width="58" height="24" rx="12" class="tagPill fadeD2"/>
+  <text x="125" y="254" text-anchor="middle" class="tagTxt fadeD2">EDR</text>
+
+  <rect x="162" y="238" width="58" height="24" rx="12" class="tagPill fadeD3"/>
+  <text x="191" y="254" text-anchor="middle" class="tagTxt fadeD3">GRC</text>
+
+  <rect x="228" y="238" width="90" height="24" rx="12" class="tagPill fadeD4"/>
+  <text x="273" y="254" text-anchor="middle" class="tagTxt fadeD4">Debian 12</text>
+</g>
+
+</svg>
