@@ -96,21 +96,14 @@ Ma formation **M1 Expert Réseaux, Infrastructures et Sécurité** (ORT Toulouse
 
 ## 🚀 Projets phares
 
-<details open>
-<summary><strong>🛡️ Wazuh SIEM / EDR sur Debian — ⭐ Featured</strong></summary>
+<div align="center">
+<img src="project-featured-wazuh.svg" alt="Wazuh SIEM / EDR sur Debian - Featured"/>
+
+<a href="https://drive.google.com/file/d/1HPmBCzCME23pfI-i-Us2Gd8sgLCN9EAz/preview"><img src="https://img.shields.io/badge/📄_Voir_le_rapport-0a1526?style=for-the-badge&logoColor=white"/></a>
+<a href="https://github.com/AmelieGarnier/Wazuh-Suricata/blob/main/Runbooks/wazuh-runbook.md"><img src="https://img.shields.io/badge/🔗_Runbook_Wazuh-0a1526?style=for-the-badge&logoColor=white"/></a>
+</div>
+
 <br/>
-
-Déploiement complet d'une infrastructure de surveillance centralisée : centralisation des logs multi-sources, détection d'intrusions en temps réel, agents déployés sur plusieurs machines Linux & Windows.
-
-| | |
-|---|---|
-| **Stack** | Wazuh Manager + Agents, VMware, Debian 12 |
-| **Scope** | Multi-machines Linux & Windows |
-| **Focus GRC** | Centralisation · Alertes · Audit |
-| **Livrables** | TP complet documenté + runbook |
-| **Repository** | [Wazuh-Suricata](https://github.com/AmelieGarnier/Wazuh-Suricata/blob/main/Runbooks/wazuh-runbook.md) |
-
-</details>
 
 <details>
 <summary><strong>🔍 Suricata IDS/IPS</strong></summary>
@@ -214,10 +207,10 @@ Installation et configuration de GLPI sur Debian 12, inventaire automatique Wind
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AmelieGarnier&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=a78bfa&icon_color=6d28d9&text_color=c4b5fd" width="49%"/>
+<img src="https://github-readme-stats-nine-coral-57.vercel.app/api?username=AmelieGarnier&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=a78bfa&icon_color=6d28d9&text_color=c4b5fd" width="49%"/>
 <img src="https://streak-stats.demolab.com/?user=AmelieGarnier&theme=tokyonight&hide_border=true&background=0d0221&ring=6d28d9&fire=a78bfa&currStreakLabel=a78bfa" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmelieGarnier&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=a78bfa&text_color=c4b5fd" width="49%"/>
+<img src="https://github-readme-stats-nine-coral-57.vercel.app/api/top-langs/?username=AmelieGarnier&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=a78bfa&text_color=c4b5fd" width="49%"/>
 
 </div>
 
@@ -227,7 +220,7 @@ Installation et configuration de GLPI sur Debian 12, inventaire automatique Wind
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AmelieGarnier&theme=algolia&no-frame=true&column=4&margin-w=10&margin-h=10"/>
+<img src="https://github-profile-trophy-psi-virid.vercel.app/?username=AmelieGarnier&theme=algolia&no-frame=true&column=4&margin-w=10&margin-h=10"/>
 
 </div>
 
