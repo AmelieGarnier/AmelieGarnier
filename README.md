@@ -27,13 +27,9 @@ Ma formation **M1 Expert Réseaux, Infrastructures et Sécurité** (ORT Toulouse
 - 🌐 TOEIC 710 pts — Niveau B2
 - 🔄 Recherche un **contrat de professionnalisation GRC**, rythme 3 semaines entreprise / 1 semaine école
 
-```bash
-amelie@kali:~$ cat open_to.txt
-→ Contrat de professionnalisation GRC — fin septembre 2026
-→ Missions gouvernance, risque, conformité SI
-→ Environnements SOC / Cybersécurité opérationnelle
-amelie@kali:~$ _
-```
+<div align="center">
+<img src="terminal-open-to.svg" alt="Terminal open to"/>
+</div>
 
 ---
 
@@ -259,28 +255,9 @@ Installation et configuration de GLPI sur Debian 12, inventaire automatique Wind
 
 ## 🎯 Focus actuel
 
-```bash
-amelie@kali:~$ cat focus.txt
-
-[LEARNING]
-→ M2 Expert Réseaux et Infrastructures Sécurisées
-→ Élaboration de PSSI & pilotage de la conduite du changement
-→ Coordination SOC / RSSI
-
-[BUILDING]
-→ Lab Wazuh + Suricata + SOAR (TheHive/Cortex/Shuffle)
-→ Environnement Kubernetes de disaster recovery
-
-[EXPLORING]
-→ Mise en œuvre ISO 27001
-→ Cartographie NIST CSF
-
-[OPEN_TO]
-→ Contrat de professionnalisation GRC — fin septembre 2026
-→ Rythme 3 semaines entreprise / 1 semaine école
-
-amelie@kali:~$ _
-```
+<div align="center">
+<img src="terminal-focus.svg" alt="Terminal focus actuel"/>
+</div>
 
 ---
 
