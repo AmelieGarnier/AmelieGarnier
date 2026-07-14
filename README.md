@@ -203,29 +203,6 @@ Installation et configuration de GLPI sur Debian 12, inventaire automatique Wind
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats-nine-coral-57.vercel.app/api?username=AmelieGarnier&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=a78bfa&icon_color=6d28d9&text_color=c4b5fd" width="49%"/>
-<img src="https://streak-stats.demolab.com/?user=AmelieGarnier&theme=tokyonight&hide_border=true&background=0d0221&ring=6d28d9&fire=a78bfa&currStreakLabel=a78bfa" width="49%"/>
-
-<img src="https://github-readme-stats-nine-coral-57.vercel.app/api/top-langs/?username=AmelieGarnier&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=a78bfa&text_color=c4b5fd" width="49%"/>
-
-</div>
-
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy-psi-virid.vercel.app/?username=AmelieGarnier&theme=algolia&no-frame=true&column=4&margin-w=10&margin-h=10"/>
-
-</div>
-
----
-
 ## 📈 Activité de contribution
 
 <div align="center">
