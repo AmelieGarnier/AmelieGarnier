@@ -96,14 +96,20 @@ Ma formation **M1 Expert Réseaux, Infrastructures et Sécurité** (ORT Toulouse
 
 ## 🚀 Projets phares
 
-<div align="center">
-<img src="project-featured-wazuh.svg" alt="Wazuh SIEM / EDR sur Debian - Featured"/>
-
-<a href="https://drive.google.com/file/d/1HPmBCzCME23pfI-i-Us2Gd8sgLCN9EAz/preview"><img src="https://img.shields.io/badge/📄_Voir_le_rapport-0a1526?style=for-the-badge&logoColor=white"/></a>
-<a href="https://github.com/AmelieGarnier/Wazuh-Suricata/blob/main/Runbooks/wazuh-runbook.md"><img src="https://img.shields.io/badge/🔗_Runbook_Wazuh-0a1526?style=for-the-badge&logoColor=white"/></a>
-</div>
-
+<details open>
+<summary><strong>🛡️ Wazuh SIEM / EDR sur Debian — Projet phare</strong></summary>
 <br/>
+
+Déploiement d'une plateforme Wazuh (SIEM/EDR) sur Debian : centralisation de logs multi-sources, règles de détection personnalisées, corrélation d'alertes et détection d'intrusions en temps réel.
+
+| | |
+|---|---|
+| **Stack** | Wazuh, Debian |
+| **Focus** | Centralisation de logs, détection d'intrusions temps réel |
+| **Rapport** | [Voir le rapport](https://drive.google.com/file/d/1HPmBCzCME23pfI-i-Us2Gd8sgLCN9EAz/preview) |
+| **Repository** | [Runbook Wazuh](https://github.com/AmelieGarnier/Wazuh-Suricata/blob/main/Runbooks/wazuh-runbook.md) |
+
+</details>
 
 <details>
 <summary><strong>🔍 Suricata IDS/IPS</strong></summary>
@@ -207,8 +213,8 @@ Installation et configuration de GLPI sur Debian 12, inventaire automatique Wind
 
 <div align="center">
 
-<img src="stats.svg" width="49%"/>
-<img src="top-langs.svg" width="49%"/>
+<img src="stats.svg?v=2" width="49%"/>
+<img src="top-langs.svg?v=2" width="49%"/>
 
 </div>
 
@@ -218,7 +224,7 @@ Installation et configuration de GLPI sur Debian 12, inventaire automatique Wind
 
 <div align="center">
 
-<img src="trophies.svg"/>
+<img src="trophies.svg?v=2"/>
 
 </div>
 
