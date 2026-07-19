@@ -260,7 +260,7 @@ Installation et configuration de GLPI sur Debian 12, inventaire automatique Wind
 
 <div align="center">
 
-*"Lire le risque SI par le droit, le sécuriser par la technique."*
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:4c1d95,100:1e1b4b&height=120&section=footer"/>
 
