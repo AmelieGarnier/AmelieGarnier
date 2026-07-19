@@ -255,13 +255,3 @@ Installation et configuration de GLPI sur Debian 12, inventaire automatique Wind
 <div align="center">
 <img src="terminal-focus.svg" alt="Terminal focus actuel"/>
 </div>
-
----
-
-<div align="center">
-
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:4c1d95,100:1e1b4b&height=120&section=footer"/>
-
-</div>
