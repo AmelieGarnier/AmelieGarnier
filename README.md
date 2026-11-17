@@ -17,16 +17,16 @@
 
 ## 📜 À propos
 
-Juriste de formation, j'ai opéré une **reconversion vers la cybersécurité**, avec un ancrage fort sur la **détection, la réponse à incident et la conformité**. Mon M1 Expert Réseaux, Infrastructures & Sécurité (ORT Toulouse · 3iL Ingénieurs) me donne les bases techniques — Linux, SIEM, réseaux — pour analyser un incident de sécurité sous l'angle **technique autant que réglementaire**.
+Juriste de formation, j'ai opéré une **reconversion vers la cybersécurité**, avec un ancrage fort sur la **détection, la réponse à incident et la conformité**. Mon M1 Expert Réseaux, Infrastructures & Sécurité (ORT Toulouse · 3iL Ingénieurs) me donne les bases techniques (Linux, SIEM, réseaux) pour analyser un incident de sécurité sous l'angle **technique autant que réglementaire**.
 
 Après une mission de **cheffe de projet cybersécurité chez COS2i**, je poursuis mon M2 en alternance chez **NGE comme analyste SOC**, en contrat de professionnalisation jusqu'en septembre 2027.
 
-- 🛡️ **Analyste SOC — NGE** · contrat de professionnalisation (sept. 2026 – sept. 2027), rythme 3 semaines entreprise / 1 semaine école
-- 🎓 Master Expert Réseaux, Infrastructures & Sécurité — **M1 obtenu (mai 2026)** · **M2 en cours (2026–2027)**
+- 🛡️ **Analyste SOC chez NGE** · contrat de professionnalisation (sept. 2026 – sept. 2027), rythme 3 semaines entreprise / 1 semaine école
+- 🎓 Master Expert Réseaux, Infrastructures & Sécurité : **M1 obtenu (mai 2026)** · **M2 en cours (2026–2027)**
 - 🏛️ École : ORT Toulouse / 3iL Ingénieurs
 - 📜 Certificat Cybersécurité Google (mai 2025)
-- ⚖️ Socle juridique : Master en Droit Public — Université Aix-en-Provence
-- 🌐 TOEIC 710 pts — Niveau B2
+- ⚖️ Socle juridique : Master en Droit Public, Université Aix-en-Provence
+- 🌐 TOEIC 710 pts, niveau B2
 
 <div align="center">
 <img src="terminal-poste.svg" alt="Terminal poste actuel"/>
@@ -100,7 +100,7 @@ Après une mission de **cheffe de projet cybersécurité chez COS2i**, je poursu
 | RGPD / Conformité | ████████░░ 85% |
 | NIST | ███████░░░ 74% |
 | Wireshark / VirusTotal | ███████░░░ 70% |
-| SOAR — TheHive / Cortex / Shuffle | ████████░░ 77% |
+| SOAR (TheHive / Cortex / Shuffle) | ████████░░ 77% |
 
 </details>
 
@@ -115,7 +115,7 @@ Après une mission de **cheffe de projet cybersécurité chez COS2i**, je poursu
 | VMware / VirtualBox | ████████░░ 75% |
 | Active Directory / IAM | ███████░░░ 68% |
 | Bash / PowerShell | ██████░░░░ 65% |
-| Zabbix 7.0 — Supervision | ████████░░ 75% |
+| Zabbix 7.0 (supervision) | ████████░░ 75% |
 
 </details>
 
@@ -153,7 +153,7 @@ Après une mission de **cheffe de projet cybersécurité chez COS2i**, je poursu
 ## 🚀 Projets phares
 
 <details open>
-<summary><strong>🛡️ Wazuh SIEM / EDR — Projet phare</strong></summary>
+<summary><strong>🛡️ Wazuh SIEM / EDR · Projet phare</strong></summary>
 <br/>
 
 Déploiement complet d'une infrastructure de surveillance centralisée sur Debian 12 : centralisation des logs multi-sources, détection d'intrusions en temps réel, agents sur plusieurs machines Linux & Windows.
@@ -183,7 +183,7 @@ Déploiement de Suricata en mode IDS/IPS : analyse de trafic réseau, écriture 
 </details>
 
 <details>
-<summary><strong>⚡ SOAR — TheHive 4 · Cortex · Shuffle</strong></summary>
+<summary><strong>⚡ SOAR · TheHive 4 · Cortex · Shuffle</strong></summary>
 <br/>
 
 Plateforme SOAR open source sur Docker, intégrée à Wazuh & Suricata : trois scénarios automatisés (brute force SSH, scan de ports, exfiltration DNS) avec enrichissement AbuseIPDB / VirusTotal, blocage Active Response conditionnel et notifications Discord.
@@ -200,7 +200,7 @@ Plateforme SOAR open source sur Docker, intégrée à Wazuh & Suricata : trois s
 </details>
 
 <details>
-<summary><strong>🖥️ Active Directory — IAM & GPO</strong></summary>
+<summary><strong>🖥️ Active Directory · IAM & GPO</strong></summary>
 <br/>
 
 Mise en place d'un domaine Active Directory sur Windows Server : gestion utilisateurs, groupes, OU, déploiement de GPO et configuration des droits d'accès.
@@ -214,7 +214,7 @@ Mise en place d'un domaine Active Directory sur Windows Server : gestion utilisa
 </details>
 
 <details>
-<summary><strong>📶 Zabbix 7.0 LTS — Supervision</strong></summary>
+<summary><strong>📶 Zabbix 7.0 LTS · Supervision</strong></summary>
 <br/>
 
 Déploiement d'un serveur Zabbix 7.0 LTS sur VM Debian 13 dédiée. Supervision de 7 services critiques (Wazuh, SOAR, Active Directory) via agents et checks TCP, triggers multi-sévérités, alertes Discord en temps réel.
@@ -229,7 +229,7 @@ Déploiement d'un serveur Zabbix 7.0 LTS sur VM Debian 13 dédiée. Supervision 
 </details>
 
 <details>
-<summary><strong>🔄 Disaster Recovery — Kubernetes</strong></summary>
+<summary><strong>🔄 Disaster Recovery · Kubernetes</strong></summary>
 <br/>
 
 Déploiement d'une architecture DR sur Kubernetes avec Rancher, RKE2, MinIO et Velero : sauvegardes programmées, simulation de sinistre et restauration complète d'un cluster en environnement virtualisé.
@@ -243,7 +243,7 @@ Déploiement d'une architecture DR sur Kubernetes avec Rancher, RKE2, MinIO et V
 </details>
 
 <details>
-<summary><strong>☁️ Nextcloud — Cloud privé souverain</strong></summary>
+<summary><strong>☁️ Nextcloud · Cloud privé souverain</strong></summary>
 <br/>
 
 Cloud privé sur VM Debian 12 avec stack LAMP et MariaDB, axé sur la souveraineté des données, avec tests fonctionnels de partage et de synchronisation.
@@ -257,7 +257,7 @@ Cloud privé sur VM Debian 12 avec stack LAMP et MariaDB, axé sur la souveraine
 </details>
 
 <details>
-<summary><strong>🗂️ GLPI 10.0.17 — ITSM / ITAM</strong></summary>
+<summary><strong>🗂️ GLPI 10.0.17 · ITSM / ITAM</strong></summary>
 <br/>
 
 Installation et configuration de GLPI sur Debian 12, inventaire automatique Windows et Linux via FusionInventory, workflows de tickets et gestion des actifs.
@@ -276,7 +276,7 @@ Installation et configuration de GLPI sur Debian 12, inventaire automatique Wind
 
 | Période | Poste / Formation | Structure |
 |---|---|---|
-| Sept. 2026 – Sept. 2027 · *en cours* | **Analyste SOC** — contrat de professionnalisation | NGE |
+| Sept. 2026 – Sept. 2027 · *en cours* | **Analyste SOC**, contrat de professionnalisation | NGE |
 | 2026 – 2027 · *en cours* | **M2 Expert Réseaux, Infrastructures et Sécurité** | ORT Toulouse / 3iL Ingénieurs |
 | Août – Sept. 2026 | Cheffe de projet cybersécurité | COS2i |
 | Mai 2026 · ✓ obtenu | M1 Expert Réseaux, Infrastructures et Sécurité | ORT Toulouse / 3iL Ingénieurs |
